@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fardeen</h1>
-<h3 align="center">👨‍💻 Full-Stack Developer | Passionate Learner at PES University</h3>
+<h3 align="center">👨‍💻 Passionate Learner at PES University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fxrdeen&label=Profile%20views&color=0e75b6&style=flat" alt="fxrdeen" /> </p>
 
